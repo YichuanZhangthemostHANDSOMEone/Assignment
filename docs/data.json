@@ -7,7 +7,8 @@
       "category": "Science Fiction",
       "rate": "9/10",
       "image": "https://i.postimg.cc/zvXDyg1k/Dune-Science-fiction.jpg",
-      "reason": "Dune is a landmark novel that has reshaped the way readers and writers alike perceive the science fiction genre. Published in 1965, it explores a vast and intricate universe where political intrigue, ecological challenges, and spiritual growth collide on the desert planet Arrakis. At the heart of this story is the invaluable spice known as melange, which bestows heightened awareness and prolonged life upon those who consume it. The struggle for control over the spice has far-reaching consequences, driving characters to navigate treacherous power plays and forge uneasy alliances. The novel’s depth is further enriched by its exploration of themes such as prophecy, leadership, destiny, and the complex interplay between religion and politics. Frank Herbert’s world-building is incredibly detailed, presenting not just a riveting plot, but also a thoughtful examination of environmental concerns and the delicate balance between humanity and nature. Through the journey of Paul Atreides and the desert-dwelling Fremen, Dune challenges readers to reflect on the far-reaching impact of resource scarcity and the moral implications of power. As one of the most celebrated science fiction works of all time, it has inspired countless authors, filmmakers, and fans, demonstrating its enduring significance and timeless appeal."
+      "reason": "Dune is a landmark novel that has reshaped the way readers and writers alike perceive the science fiction genre. Published in 1965, it explores a vast and intricate universe where political intrigue, ecological challenges, and spiritual growth collide on the desert planet Arrakis. At the heart of this story is the invaluable spice known as melange, which bestows heightened awareness and prolonged life upon those who consume it. The struggle for control over the spice has far-reaching consequences, driving characters to navigate treacherous power plays and forge uneasy alliances. The novel’s depth is further enriched by its exploration of themes such as prophecy, leadership, destiny, and the complex interplay between religion and politics. Through the journey of Paul Atreides and the desert-dwelling Fremen, Dune challenges readers to reflect on the far-reaching impact of resource scarcity and the moral implications of power. As one of the most celebrated science fiction works of all time, it has inspired countless authors, filmmakers, and fans, demonstrating its enduring significance and timeless appeal.",
+      "baseon": "The Three-Body Problem"
     },
     {
       "id": 2,
@@ -16,43 +17,48 @@
       "category": "Science Fiction",
       "rate": "7/10",
       "image": "https://i.postimg.cc/X7PNvq1w/I-Robot-sci-fi.jpg",
-      "reason": "I, Robot, written by Isaac Asimov, is a seminal collection of short stories that revolutionized the science fiction genre by introducing the Three Laws of Robotics. Published in 1950, the stories explore the complex and evolving relationships between humans and robots in a future society where artificial intelligence is governed by ethical constraints. Asimov’s vision delves into moral dilemmas, logical paradoxes, and the inherent limitations of programming, revealing how even well-intentioned guidelines can lead to unforeseen consequences. The robots in these stories are not merely mechanical devices but reflect aspects of human nature, fear, and aspiration. Each narrative is intricately woven to question the boundaries of consciousness, the nature of free will, and humanity’s responsibility in creating intelligent life forms. By challenging readers to contemplate the ethical responsibilities of technological advancement, I, Robot remains profoundly relevant in today’s world of rapid AI development. Its lasting impact can be seen in countless works of fiction and real-world debates on AI ethics and regulation, making it a cornerstone of modern science fiction."
+      "reason": "I, Robot, written by Isaac Asimov, is a seminal collection of short stories that revolutionized the science fiction genre by introducing the Three Laws of Robotics. Published in 1950, the stories explore the complex and evolving relationships between humans and robots in a future society where artificial intelligence is governed by ethical constraints. Asimov’s vision delves into moral dilemmas, logical paradoxes, and the inherent limitations of programming, revealing how even well-intentioned guidelines can lead to unforeseen consequences. The robots in these stories are not merely mechanical devices but reflect aspects of human nature, fear, and aspiration. Each narrative is intricately woven to question the boundaries of consciousness, the nature of free will, and humanity’s responsibility in creating intelligent life forms. By challenging readers to contemplate the ethical responsibilities of technological advancement, I, Robot remains profoundly relevant in today’s world of rapid AI development. Its lasting impact can be seen in countless works of fiction and real-world debates on AI ethics and regulation, making it a cornerstone of modern science fiction.",
+      "baseon": "Animal Farm"
     },
     {
-    "id": 3,
-    "name": "Rebecca",
-    "author": "Daphne du Maurier",
-    "category": "Mystery",
-    "rate": "8/10",
-    "image": "https://i.postimg.cc/sgZjGzbb/Rebecca-mystery.jpg",
-    "reason": "Rebecca is a classic novel by Daphne du Maurier that weaves suspense, romance, and psychological intrigue into a haunting narrative. The story follows an unnamed young woman who marries the wealthy widower Maxim de Winter, only to be overshadowed by the lingering presence of his deceased first wife, Rebecca. As she struggles to settle into her new role at Manderley, the atmospheric estate, she is drawn into secrets and hidden tensions that test her confidence and unravel her sense of identity. Du Maurier's skillful storytelling creates a deeply unsettling mood that resonates with readers. With its evocative descriptions and subtle commentary on class and gender roles, \"Rebecca\" remains a timeless masterpiece, offering an immersive reading experience for fans of mystery and gothic literature."
-  },
-  {
-    "id": 4,
-    "name": "Sweet Fury",
-    "author": "Sash Bischoff",
-    "category": "Mystery",
-    "rate": "7/10",
-    "image": "https://i.postimg.cc/zXvX5K7z/Sweet-Fury-Mystery.jpg",
-    "reason": "“Sweet Fury” by Sash Bischoff is an intriguing mystery novel that delves into the complexities of obsession and revenge. The story revolves around a seemingly ordinary protagonist who becomes entangled in a dangerous web of secrets after encountering a charismatic stranger. As the narrative unfolds, Bischoff skillfully weaves layers of tension, leaving readers guessing the truth behind each character’s motives. With vivid descriptions and a moody atmosphere, the book masterfully captures the protagonist’s growing sense of unease. Themes of betrayal, hidden identities, and moral compromise come to the forefront, challenging readers to question the boundaries of loyalty and justice. “Sweet Fury” is a gripping tale that keeps you on edge, making it an excellent choice for those who crave suspense and psychological depth."
-  },
-  {
-    "id": 5,
-    "name": "The Help",
-    "author": "Kathryn Stockett",
-    "category": "Historical Fiction",
-    "rate": "9/10",
-    "image": "https://i.postimg.cc/Bv9qxy0b/The-help-historical-fiction.jpg",
-    "reason": "Set in the racially charged atmosphere of 1960s Mississippi, “The Help” by Kathryn Stockett is a thought-provoking historical fiction novel that centers on the lives of African American maids and the white families they serve. Through the perspectives of three distinct narrators—Skeeter, Aibileen, and Minny—the story reveals the harsh realities of segregation, prejudice, and social injustice. Stockett expertly balances the struggles of these characters with moments of warmth, humor, and resilience, highlighting the power of friendship and solidarity in the face of oppression. By delving into the private lives of these women, the novel offers an intimate look at their hopes, fears, and determination to create change. “The Help” is a powerful read that invites reflection on empathy, courage, and the complexities of race relations."
-  },
-  {
-    "id": 6,
-    "name": "The Nightingale",
-    "author": "Kristin Hannah",
-    "category": "Historical Fiction",
-    "rate": "10/10",
-    "image": "https://i.postimg.cc/tT9pcx7H/The-Nightingal.jpg",
-    "reason": "Set in German-occupied France during World War II, “The Nightingale” by Kristin Hannah is a poignant historical fiction that explores the courage and sacrifice of two sisters. While Vianne struggles to keep her family safe and her home intact, her younger sister Isabelle joins the Resistance, risking her life to help downed Allied pilots escape. Hannah’s evocative storytelling immerses readers in the emotional turmoil of war, capturing both the brutality of the occupation and the resilience of those who refuse to surrender hope. The novel deftly illustrates the transformative power of love, loyalty, and perseverance in the face of immense danger. With its heartfelt narrative and vivid portrayal of wartime France, “The Nightingale” serves as a moving tribute to the unbreakable bonds of family."
-  }
+      "id": 3,
+      "name": "Rebecca",
+      "author": "Daphne du Maurier",
+      "category": "Mystery",
+      "rate": "8/10",
+      "image": "https://i.postimg.cc/sgZjGzbb/Rebecca-mystery.jpg",
+      "reason": "Rebecca is a classic novel by Daphne du Maurier that weaves suspense, romance, and psychological intrigue into a haunting narrative. The story follows an unnamed young woman who marries the wealthy widower Maxim de Winter, only to be overshadowed by the lingering presence of his deceased first wife, Rebecca. As she struggles to settle into her new role at Manderley, the atmospheric estate, she is drawn into secrets and hidden tensions that test her confidence and unravel her sense of identity. Du Maurier's skillful storytelling creates a deeply unsettling mood that resonates with readers. With its evocative descriptions and subtle commentary on class and gender roles, \"Rebecca\" remains a timeless masterpiece, offering an immersive reading experience for fans of mystery and gothic literature.",
+      "baseon": "Gone Girl"
+    },
+    {
+      "id": 4,
+      "name": "Sweet Fury",
+      "author": "Sash Bischoff",
+      "category": "Mystery",
+      "rate": "7/10",
+      "image": "https://i.postimg.cc/zXvX5K7z/Sweet-Fury-Mystery.jpg",
+      "reason": "“Sweet Fury” by Sash Bischoff is an intriguing mystery novel that delves into the complexities of obsession and revenge. The story revolves around a seemingly ordinary protagonist who becomes entangled in a dangerous web of secrets after encountering a charismatic stranger. As the narrative unfolds, Bischoff skillfully weaves layers of tension, leaving readers guessing the truth behind each character’s motives. With vivid descriptions and a moody atmosphere, the book masterfully captures the protagonist’s growing sense of unease. Themes of betrayal, hidden identities, and moral compromise come to the forefront, challenging readers to question the boundaries of loyalty and justice. “Sweet Fury” is a gripping tale that keeps you on edge, making it an excellent choice for those who crave suspense and psychological depth.",
+      "baseon": "A Sea of Unspoken Things"
+    },
+    {
+      "id": 5,
+      "name": "The Help",
+      "author": "Kathryn Stockett",
+      "category": "Historical Fiction",
+      "rate": "9/10",
+      "image": "https://i.postimg.cc/Bv9qxy0b/The-help-historical-fiction.jpg",
+      "reason": "Set in the racially charged atmosphere of 1960s Mississippi, “The Help” by Kathryn Stockett is a thought-provoking historical fiction novel that centers on the lives of African American maids and the white families they serve. Through the perspectives of three distinct narrators—Skeeter, Aibileen, and Minny—the story reveals the harsh realities of segregation, prejudice, and social injustice. Stockett expertly balances the struggles of these characters with moments of warmth, humor, and resilience, highlighting the power of friendship and solidarity in the face of oppression. By delving into the private lives of these women, the novel offers an intimate look at their hopes, fears, and determination to create change. “The Help” is a powerful read that invites reflection on empathy, courage, and the complexities of race relations.",
+      "baseon": "Memoirs of a Geisha"
+    },
+    {
+      "id": 6,
+      "name": "The Nightingale",
+      "author": "Kristin Hannah",
+      "category": "Historical Fiction",
+      "rate": "10/10",
+      "image": "https://i.postimg.cc/tT9pcx7H/The-Nightingal.jpg",
+      "reason": "Set in German-occupied France during World War II, “The Nightingale” by Kristin Hannah is a poignant historical fiction that explores the courage and sacrifice of two sisters. While Vianne struggles to keep her family safe and her home intact, her younger sister Isabelle joins the Resistance, risking her life to help downed Allied pilots escape. Hannah’s evocative storytelling immerses readers in the emotional turmoil of war, capturing both the brutality of the occupation and the resilience of those who refuse to surrender hope. The novel deftly illustrates the transformative power of love, loyalty, and perseverance in the face of immense danger. With its heartfelt narrative and vivid portrayal of wartime France, “The Nightingale” serves as a moving tribute to the unbreakable bonds of family.",
+      "baseon": "Wolf Hall"
+    }
   ]
 }
