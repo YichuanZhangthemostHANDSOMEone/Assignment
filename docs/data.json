@@ -52,13 +52,13 @@
     },
     {
       "id": 6,
-      "name": "The Nightingale",
+      "name": "Walf Hall",
       "author": "Kristin Hannah",
       "category": "Historical Fiction",
       "rate": "10/10",
-      "image": "https://i.postimg.cc/tT9pcx7H/The-Nightingal.jpg",
+      "image": "https://i.postimg.cc/PJRHNVyt/Wolf-Hall-historical-fiction.jpg",
       "reason": "Set in German-occupied France during World War II, “The Nightingale” by Kristin Hannah is a poignant historical fiction that explores the courage and sacrifice of two sisters. While Vianne struggles to keep her family safe and her home intact, her younger sister Isabelle joins the Resistance, risking her life to help downed Allied pilots escape. Hannah’s evocative storytelling immerses readers in the emotional turmoil of war, capturing both the brutality of the occupation and the resilience of those who refuse to surrender hope. The novel deftly illustrates the transformative power of love, loyalty, and perseverance in the face of immense danger. With its heartfelt narrative and vivid portrayal of wartime France, “The Nightingale” serves as a moving tribute to the unbreakable bonds of family.",
-      "baseon": "Wolf Hall"
+      "baseon": "The Nightingal"
     }
   ]
 }
